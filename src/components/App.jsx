@@ -38,7 +38,7 @@ const Content = (props) => {
 const Total = (props) => {
   return (
     <div>
-      <p>{props.excercise}</p>
+      <p>Total Exercises = {props.exercises}</p>
     </div>
   )
 }
